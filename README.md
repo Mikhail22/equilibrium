@@ -1,5 +1,5 @@
-# equilibrium
-structures-precursor--1<br>
+# images
+test <br>
 <img src="https://github.com/Mikhail22/equilibrium/blob/master/tex1.png">
 <img src="https://github.com/Mikhail22/equilibrium/blob/master/tex1.png">
 <img src="https://github.com/Mikhail22/equilibrium/blob/master/tex1.png">
